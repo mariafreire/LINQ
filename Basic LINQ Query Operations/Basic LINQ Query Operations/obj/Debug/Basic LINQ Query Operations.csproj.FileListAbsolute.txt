@@ -1,0 +1,11 @@
+U:\3 CIT150\Assignments\Basic LINQ Query Operations\Basic LINQ Query Operations\bin\Debug\Basic LINQ Query Operations.exe.config
+C:\Users\Maria\Documents\CIT150\CIT150\Basic LINQ Query Operations\Basic LINQ Query Operations\bin\Debug\Employees.accdb
+C:\Users\Maria\Documents\CIT150\CIT150\Basic LINQ Query Operations\Basic LINQ Query Operations\bin\Debug\Basic LINQ Query Operations.exe.config
+C:\Users\Maria\Documents\CIT150\CIT150\Basic LINQ Query Operations\Basic LINQ Query Operations\bin\Debug\Basic LINQ Query Operations.exe
+C:\Users\Maria\Documents\CIT150\CIT150\Basic LINQ Query Operations\Basic LINQ Query Operations\bin\Debug\Basic LINQ Query Operations.pdb
+C:\Users\Maria\Documents\CIT150\CIT150\Basic LINQ Query Operations\Basic LINQ Query Operations\obj\Debug\Basic LINQ Query Operations.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Documents\CIT150\CIT150\Basic LINQ Query Operations\Basic LINQ Query Operations\obj\Debug\Basic_LINQ_Query_Operations.Form1.resources
+C:\Users\Maria\Documents\CIT150\CIT150\Basic LINQ Query Operations\Basic LINQ Query Operations\obj\Debug\Basic_LINQ_Query_Operations.Properties.Resources.resources
+C:\Users\Maria\Documents\CIT150\CIT150\Basic LINQ Query Operations\Basic LINQ Query Operations\obj\Debug\Basic LINQ Query Operations.csproj.GenerateResource.Cache
+C:\Users\Maria\Documents\CIT150\CIT150\Basic LINQ Query Operations\Basic LINQ Query Operations\obj\Debug\Basic LINQ Query Operations.exe
+C:\Users\Maria\Documents\CIT150\CIT150\Basic LINQ Query Operations\Basic LINQ Query Operations\obj\Debug\Basic LINQ Query Operations.pdb
